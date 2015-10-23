@@ -1,6 +1,6 @@
 /*  Program Name:  Photo Gallery Application
-    Author: 
-    Date:   
+    Author: Collin Williams
+    Date:   10/23/15
     Filename: zoom.js
  */
 
